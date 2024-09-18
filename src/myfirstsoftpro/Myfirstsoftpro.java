@@ -8,6 +8,8 @@ package myfirstsoftpro;
  *
  * @author WIDE ANGLE
  */
+
+// this is my class myfirstpro
 public class Myfirstsoftpro {
 
     /**
